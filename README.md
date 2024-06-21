@@ -1,4 +1,4 @@
--# Notes-Flipper-Zero
+# Notes-Flipper-Zero
 ## Side-Loading Applications
 - You can install a single application without building/flashing the entire firmware and without going through any app store
 ### Install ubft
