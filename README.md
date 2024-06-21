@@ -8,7 +8,7 @@
   - with `$ git clone https://github.com/leedave/flipper-zero-fap-boilerplate`
   - and `$ cd flipper-zero-fap-boilerplate`
 ### Or create it
-- `$ mkdir my app`
+- `$ mkdir myapp`
 - `$ cd myapp`
 - `$ ufbt create APPID=myapp`
 ### Build the app
