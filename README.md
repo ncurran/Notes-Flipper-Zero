@@ -15,6 +15,5 @@
 - `$ ufbt`
 ### Install the app
 - ufbt creates the `dist/` subdirectory which will contain your .fap file
-  - `$ cd dist`
-- copy the file to the appropriate location on the device
+- copy the .fap file to the appropriate location on the device
   - this was in `SD Card/apps/` for me using Momentum firmware, I put my app in the `Tools/` subdirectory 
